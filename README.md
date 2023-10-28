@@ -15,5 +15,7 @@ In 2018, I have decided to change my career path, focusing on software developme
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubal-agrawal/)](https://www.linkedin.com/in/breno-do-val/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenorvale@gmail.com.com)](mailto:brenorvale@gmail.com)
 
 
+_** I used to use another Github account, [Breno-do-val](https://github.com/Breno-do-val), but I ran out of possibilities to recover it, so this one has been created! :) **_
+
 > Right is right even if no one is doing it; wrong is wrong even if everyone is doing it.\
 > Saint Augustine

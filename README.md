@@ -17,5 +17,7 @@ In 2018, I have decided to change my career path, focusing on software developme
 
 _** I used to use another Github account, [Breno-do-val](https://github.com/Breno-do-val), but I ran out of possibilities to recover it, so this one has been created! :) **_
 
+
+
 > Right is right even if no one is doing it; wrong is wrong even if everyone is doing it.\
 > Saint Augustine

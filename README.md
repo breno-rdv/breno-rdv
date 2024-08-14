@@ -5,8 +5,8 @@ A lifelong learner living a simple life!
 
 In 2018, I have decided to change my career path, focusing on software development. Since then, I have been always looking for new challenges and get to knowing the buzzling technologies.
 
-- 🔭 I’m currently working as a full-stack engineer, using ReactJS, Next.js, Java, React Native, Python, and using AWS as a cloud provider.
-- 🚀 Strong background in Front-end, I have worked with AngularJs, Angular 2+, React, Next.js, and Kotlin, React Native and Ionic for Mobile Apps.
+- 🔭 I’m currently working as a full-stack engineer, using ReactJS, Next.js, React Native, Node.js and Python. Also, using AWS as a cloud provider.
+- 🚀 Strong background in Front-end, I have worked with AngularJs, Angular 2+, React, Next.js, and React Native for Mobile Apps.
 - 💬 Talk to me about economy, technology and cookery.
 - ⚡ Fun fact: I have taken Steve Jobs' phrase "Stay hungry, stay foolish" as a precept.
 

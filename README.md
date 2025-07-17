@@ -5,7 +5,7 @@ A lifelong learner living a simple life!
 
 In 2018, I have decided to change my career path, focusing on software development. Since then, I have been always looking for new challenges and get to knowing the buzzling technologies.
 
-- 🔭 I’m currently working as a Senior Software Engineer at John Deere, using ReactJS, Node.js and Java. Also, using AWS as a cloud provider.
+- 🔭 I’m currently working as a Senior Software Engineer at John Deere, using ReactJS, Node.js, Python and Java. Also, using AWS as a cloud provider.
 - 🚀 Strong background in Front-end, I have worked with AngularJs, Angular 2+, React, Next.js, and React Native for Mobile Apps. Aiming to improve my skills in Software design and architecture.
 - 💬 Talk to me about economy, technology and cookery.
 - ⚡ Fun fact: I have taken Steve Jobs' phrase "Stay hungry, stay foolish" as a precept.
